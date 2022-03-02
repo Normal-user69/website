@@ -1,0 +1,38 @@
+.con{
+	width : 100%;
+	display:flex;
+}
+.con2{
+	width : 100%;
+		display:flex;
+
+}
+.con3{
+	width : 100%;
+		display:flex;
+
+}
+
+.box{
+	width : 200px;
+	height : 200px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: sans-serif;
+	background-color: #add8e6;	
+	 border: 10px solid white;
+  padding: 0.2em;
+  margin: 0.1	em;
+  	text-align:center;
+
+
+}
+.x{
+	outline-color:black;
+	text-align:center;
+}
+.o{
+	outline-color:black;
+	text-align:center;
+}
